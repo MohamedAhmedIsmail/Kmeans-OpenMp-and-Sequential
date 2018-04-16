@@ -1,0 +1,34 @@
+﻿Build started 3/27/2018 12:04:52 AM.
+     1>Project "D:\computer science\courses\year 4\semester 2\Distributed Computing\K-MeansDC\K-MeansDC\K-MeansDC.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /openmp /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>d:\computer science\courses\year 4\semester 2\distributed computing\k-meansdc\k-meansdc\source.cpp(46): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\computer science\courses\year 4\semester 2\distributed computing\k-meansdc\k-meansdc\source.cpp(49): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\computer science\courses\year 4\semester 2\distributed computing\k-meansdc\k-meansdc\source.cpp(82): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\computer science\courses\year 4\semester 2\distributed computing\k-meansdc\k-meansdc\source.cpp(90): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\computer science\courses\year 4\semester 2\distributed computing\k-meansdc\k-meansdc\source.cpp(112): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\computer science\courses\year 4\semester 2\distributed computing\k-meansdc\k-meansdc\source.cpp(113): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\computer science\courses\year 4\semester 2\distributed computing\k-meansdc\k-meansdc\source.cpp(114): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\computer science\courses\year 4\semester 2\distributed computing\k-meansdc\k-meansdc\source.cpp(115): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\computer science\courses\year 4\semester 2\distributed computing\k-meansdc\k-meansdc\source.cpp(152): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\computer science\courses\year 4\semester 2\distributed computing\k-meansdc\k-meansdc\source.cpp(186): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\computer science\courses\year 4\semester 2\distributed computing\k-meansdc\k-meansdc\source.cpp(189): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\computer science\courses\year 4\semester 2\distributed computing\k-meansdc\k-meansdc\source.cpp(222): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\computer science\courses\year 4\semester 2\distributed computing\k-meansdc\k-meansdc\source.cpp(230): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\computer science\courses\year 4\semester 2\distributed computing\k-meansdc\k-meansdc\source.cpp(252): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\computer science\courses\year 4\semester 2\distributed computing\k-meansdc\k-meansdc\source.cpp(253): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\computer science\courses\year 4\semester 2\distributed computing\k-meansdc\k-meansdc\source.cpp(254): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\computer science\courses\year 4\semester 2\distributed computing\k-meansdc\k-meansdc\source.cpp(255): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\computer science\courses\year 4\semester 2\distributed computing\k-meansdc\k-meansdc\source.cpp(285): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\computer science\courses\year 4\semester 2\distributed computing\k-meansdc\k-meansdc\source.cpp(295): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\computer science\courses\year 4\semester 2\distributed computing\k-meansdc\k-meansdc\source.cpp(305): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\computer science\courses\year 4\semester 2\distributed computing\k-meansdc\k-meansdc\source.cpp(315): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\computer science\courses\year 4\semester 2\Distributed Computing\K-MeansDC\Debug\K-MeansDC.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\computer science\courses\year 4\semester 2\Distributed Computing\K-MeansDC\Debug\K-MeansDC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\computer science\courses\year 4\semester 2\Distributed Computing\K-MeansDC\Debug\K-MeansDC.lib" /MACHINE:X86 Debug\Source.obj
+         K-MeansDC.vcxproj -> D:\computer science\courses\year 4\semester 2\Distributed Computing\K-MeansDC\Debug\K-MeansDC.exe
+     1>Done Building Project "D:\computer science\courses\year 4\semester 2\Distributed Computing\K-MeansDC\K-MeansDC\K-MeansDC.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:08.43
